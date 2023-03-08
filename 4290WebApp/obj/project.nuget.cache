@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ugb/F5pxacGgL85hNnEwk7U/iqtBPn6GLwUHJ/iWUZnrISl40NWx5XPbXnrTiOddpdkujnoyHs0YD2YCgxuxHg==",
+  "dgSpecHash": "jnA6/wZftxGML8Ldtunimki/6cTLbWt4awVukqw8JD592X+0h/6OY4ebrY/lp+zWaeKlsaE/orN0A4tHoti7sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LAPTOP\\source\\repos\\4290WebApp\\4290WebApp\\4290WebApp.csproj",
+  "projectFilePath": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\4290WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

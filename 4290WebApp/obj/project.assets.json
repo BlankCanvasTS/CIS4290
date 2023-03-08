@@ -10017,11 +10017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPTOP\\source\\repos\\4290WebApp\\4290WebApp\\4290WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\4290WebApp.csproj",
       "projectName": "4290WebApp",
-      "projectPath": "C:\\Users\\LAPTOP\\source\\repos\\4290WebApp\\4290WebApp\\4290WebApp.csproj",
+      "projectPath": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\4290WebApp.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPTOP\\source\\repos\\4290WebApp\\4290WebApp\\obj\\",
+      "outputPath": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
