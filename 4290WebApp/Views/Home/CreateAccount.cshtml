@@ -1,0 +1,96 @@
+﻿
+@{
+    ViewData["Title"] = "CreateAccount";
+}
+<body>
+    <form action="../pageJoin/storeData.js">
+        <div>
+            <h1 class="text-center">Login Information</h1>
+            <hr>
+            <fieldset>
+                <div class="form-group col-sm-4">
+                    <label for="Username" class="form-label mt-2">Create Username</label>
+                    <input required="required" type="text" class="form-control" id="username" placeholder="Username">
+                </div>
+                <div class="form-group col-sm-4">
+                    <label for="password" class="form-label mt-2">Create Password</label>
+                    <input required="required" type="password" class="form-control" id="password"
+                           placeholder="Password">
+                    <small id="passwordHelp" class="form-text text-muted">
+                        Password must contain atleast:
+                        <ul>
+                            <li>1 Uppercase Letter</li>
+                            <li>1 Lowercase Letter</li>
+                            <li>1 Number</li>
+                            <li>1 Special Symbol</li>
+                        </ul>
+                    </small>
+                </div>
+            </fieldset>
+            <br>
+            <h1 class="text-center">Personal Information</h1>
+            <hr>
+            <fieldset>
+                <div class="form-group d-flex align-items-center">
+                    <div class="col-sm-2">
+                        <label for="nameFirst" class="form-label mt-4">First Name:</label>
+                        <input required="required" type="text" class="form-control" id="nameFirst" placeholder="Johnny">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="nameMidde" class="form-label mt-4">Middle Inital:</label>
+                        <input type="text" class="form-control" id="nameMiddle" placeholder="A">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="namelast" class="form-label mt-4">Last Name:</label>
+                        <input required="required" type="text" class="form-control" id="nameLast" placeholder="Seed">
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <div class="form-group d-flex align-items-center">
+                    <div class="col-sm-4">
+                        <label for="addressHome-Street" class="form-label mt-4">Home Address:</label>
+                        <input type="text" class="form-control" id="addressHome-Street" placeholder="1234 Fake St.">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="addressHome-City" class="form-label mt-4">City:</label>
+                        <input type="text" class="form-control" id="addressHome-City" placeholder="Pomona">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="addressHome-State" class="form-label mt-4">State:</label>
+                        <input type="text" class="form-control" id="addressHome-State" placeholder="CA">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="addressHome-Zipcode" class="form-label mt-4">Zipcode</label>
+                        <input type="text" class="form-control" id="addressHome-Zipcode" placeholder="91766">
+                    </div>
+                </div>
+            </fieldset>
+            <br>
+            <h1 class="text-center">Contact Information</h1>
+            <hr>
+            <fieldset>
+                <div>
+                    <div class="form-group col-sm-4">
+                        <label for="addressEmail" class="form-label mt-4">Enter Email Here</label>
+                        <input required="required" type="email" class="form-control" id="contactEmail"
+                               aria-describedby="emailHelp" placeholder="email@example.com">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="contactPhone" class="form-label mt-2">Phone Number:</label>
+                        <input type="tel" class="form-control" id="contactPhone" placeholder="(555)555-5555">
+                    </div>
+                    <div class="col-sm-2">
+                        <label for="contactDiscord" class="form-label mt-2">Discord ID:</label>
+                        <input type="text" class="form-control" id="contactDiscord" placeholder="Discord#1234">
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+        <hr>
+        <div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="reset" class="btn btn-secondary">Reset</button>
+        </div>
+    </form>
+</body>
