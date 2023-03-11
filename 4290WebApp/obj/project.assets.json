@@ -10012,19 +10012,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LAPTOP\\.nuget\\packages\\": {}
+    "C:\\Users\\kma35\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\4290WebApp.csproj",
+      "projectUniqueName": "C:\\4290\\Final\\4290WebApp\\4290WebApp.csproj",
       "projectName": "4290WebApp",
-      "projectPath": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\4290WebApp.csproj",
-      "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAPTOP\\Source\\Repos\\BlankCanvasTS\\CIS4290\\4290WebApp\\obj\\",
+      "projectPath": "C:\\4290\\Final\\4290WebApp\\4290WebApp.csproj",
+      "packagesPath": "C:\\Users\\kma35\\.nuget\\packages\\",
+      "outputPath": "C:\\4290\\Final\\4290WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kma35\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

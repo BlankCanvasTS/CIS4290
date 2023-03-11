@@ -18,7 +18,7 @@ namespace _4290WebApp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             return View();
         }
@@ -31,6 +31,10 @@ namespace _4290WebApp.Controllers
             return View();
         }
         public IActionResult ForgetPassword()
+        {
+            return View();
+        }
+        public IActionResult Products()
         {
             return View();
         }
